@@ -1,0 +1,12 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "AzureResumeConnectionString":"AccountEndpoint=https://gary-cosmosdb.documents.azure.com:443/;AccountKey=h85wLA2xmw3nGQeEB1QYeWw2cI07gSiydGCgxwO7ePxmYwspfyJ5DlFB05vurvcdpgIWJBNMIE3C9SeReh4TGg==;"
+  },
+  "Host":
+  {
+    "CORS":"*"
+  }
+}
